@@ -4,7 +4,7 @@
 
 * Create a ReactNative app.
 * Create native passwordless authentication using AWS Cognito & Lambda functions.
-* Show live prices for BTC/USD from Binance, Coinbase, BitMEX & HitBTC exchanges.
+* Show live updates from an API of your choice (prices of a stock, events on a ticket exchange, etc.)
 * Don't focus on the UI.
 * Focus on security and reliability.
 * App should but operational on both Android and iOS.
