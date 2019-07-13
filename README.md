@@ -10,5 +10,5 @@
 * App should but operational on both Android and iOS.
 * Don't come back asking questions.
 * Take as many days you need and consult whoever you want to.
-* Once you commit your final code, email amar@hyperlinq.io
+* Once you commit your final code, email taylor@fithop.com
 * Once you email about completion of task, do not make further commits.
